@@ -1,0 +1,77 @@
+
+/*Miguel Ángel Sainz Ayuso*/
+
+body{
+
+   background-color: #FF8C00;
+
+}
+/*#contorno{
+     
+     border: 1px solid yellow;
+     margin: 0px 0px 0px 415px; 
+}*/
+
+#operaciones{
+	width: 340px;
+	padding: 20px;
+    background-color: #20B2AA;
+    border: 2px solid green;
+    border-radius: 1px;
+    
+    
+}
+
+#display{
+   border: 3px solid green;
+   width: 340px;
+   padding: 20px;
+   background-color: rgba(211,211,211,0.7);
+   border-radius: 8px;
+
+}
+
+#uno{
+    border: 2px solid blue;
+    border-radius: 10px;
+    margin: 0px 50px 0px 0px;
+    padding: 10px;
+    background-color: rgba(34,139,34,0.9);
+    box-shadow: 0 0 20px rgba(255,255,255, 0.4);
+}
+    
+
+#dos{
+    border: 2px solid blue;
+    border-radius: 10px;
+    margin: 0px 60px 0px 0px;
+    padding: 10px;
+    background-color: rgba(34,139,34,0.9);
+    box-shadow: 0 0 20px rgba(255,255,255, 0.4);
+}
+
+#suma{
+    border: 2px solid blue;
+    border-radius: 10px;
+    margin: 0px 60px 0px 0px;
+    padding: 10px;
+    background-color: rgba(34,139,34,0.9);
+    box-shadow: 0 0 20px rgba(255,255,255, 0.4);
+}
+
+#result{
+    border: 2px solid blue;
+    border-radius: 10px;
+    margin: 0px 70px 0px 0px;
+    padding: 10px;
+    background-color: rgba(34,139,34,0.9);
+    box-shadow: 0 0 20px rgba(255,255,255, 0.4);
+}
+
+a {
+    font-family: Arial,Verdana,serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+
